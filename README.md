@@ -40,7 +40,7 @@ DB_PASSWORD=pscale_pw_xxxxxx-xx-xxxxxxxxxxxxxxxxxxxxxxxx
 MYSQL_ATTR_SSL_CA=/etc/ssl/cert.pem
 ```
 
-**Note**: The value for `MYSQL_ATTR_SSL_CA` will depend on your system. You can find more information on our [Secure Connections page](https://docs.planetscale.com/concepts/secure-connections).
+**Note**: The value for `MYSQL_ATTR_SSL_CA` will depend on your system. You can find more information on our [Secure Connections page](https://planetscale.com/docs/concepts/secure-connections).
 
 6. Run the migrations:
 
