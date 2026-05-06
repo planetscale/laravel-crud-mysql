@@ -1,5 +1,7 @@
 ## Overview
 
+> **Note:** This project targets PlanetScale Vitess/MySQL. PlanetScale also offers managed Postgres. For more information, see the [PlanetScale Postgres documentation](https://planetscale.com/docs/postgres).
+
 This is the final repo for the Laravel MySQL Mood Tracker project showing PlanetScale integration. You can find the [full tutorial on the PlanetScale blog](https://planetscale.com/blog/build-laravel-crud-mysql-app).
 
 <img width="1178" alt="mood-tracker" src="https://user-images.githubusercontent.com/2941081/153310727-a4e8684c-d260-4543-969f-fca489a39a58.png">
